@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KhanZet
-- 👀 I’m interested in Python programming(bot, parse now) and earnings money, because money is good, i need it 
-- 🌱 I’m currently learning how to parsing sites, but currently is hard
-- 💞️ I’m looking to collaborate on nothing , because i'm stupid 
+- 👀 I’m interested in Front-End Development
+- 🌱 I’m currently learning JavaScript and various technologies
+- 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me, you can contact me by telegram(@UmbraZet)
 
 <!---
